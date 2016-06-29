@@ -1,0 +1,19 @@
+{
+  "name": "object-array-extend",
+  "version": "1.0.0",
+  "description": "### Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caijf/object-array-extend.git"
+  },
+  "author": "caijf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caijf/object-array-extend/issues"
+  },
+  "homepage": "https://github.com/caijf/object-array-extend#readme"
+}
