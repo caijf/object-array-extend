@@ -1,5 +1,9 @@
 # object-array-extend
 
+object extend
+
+merge object & array
+
 ### Examples
 
 	let extend = require('object-array-extend');
